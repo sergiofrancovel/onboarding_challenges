@@ -1,0 +1,20 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éêà
+@
+java:S1197"*Move the array designators [] to the type.(ÜŠ±ë
+A
+java:S1481"&Remove this unused "e" local variable.(¸âÈºÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "locker" local variable.(½Ÿşÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(‘‰ìœúÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(…¹ø
+=
+java:S11252"'Remove the unnecessary boolean literal.(…¹ø
+E
+java:S5411"*Use the primitive boolean expression here.(‘‰ìœúÿÿÿÿ
+@
+java:S5411"*Use the primitive boolean expression here.(…¹ø
+@
+java:S54112"*Use the primitive boolean expression here.(…¹ø
