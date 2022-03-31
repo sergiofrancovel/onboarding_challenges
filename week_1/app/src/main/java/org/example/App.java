@@ -12,7 +12,7 @@ public class App {
         Boolean lockers[] = new Boolean[100];
         int openDoors=0;
         for(Boolean locker : lockers){
-            openLokers(lockers);
+            openLockers(lockers);
             closeEverySecondLocker(lockers);
             toggleThirdLocker(lockers);
         }
@@ -29,7 +29,7 @@ public class App {
         return openDoors;
     }
 
-    public static void openLokers(Boolean[] lockers){
+    public static void openLockers(Boolean[] lockers){
         for(int i=0;i<lockers.length;i++){
             lockers[i] = true;
         }
